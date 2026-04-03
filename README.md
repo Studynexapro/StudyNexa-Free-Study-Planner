@@ -27,5 +27,4 @@ StudyNexa is an educational brand focused on creating structured learning resour
 ## 📥 Usage
 This planner is free for personal and educational use.
 
-## Preview
-![Study Planner Preview](StudyNexa student planner overview.png)
+![Preview](preview.png)
